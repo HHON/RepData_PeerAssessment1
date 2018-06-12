@@ -3,7 +3,6 @@ Activity
 Read "activity.csv"
 ```{r}
 getwd()
-"/Users/Hung/Desktop/data"
 activity <- read.csv("./activity.csv")
 ```
 Processing the data
